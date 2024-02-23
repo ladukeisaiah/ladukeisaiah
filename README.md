@@ -3,7 +3,7 @@
 - 🖥️⭐️ I'm a [Software Engineer](https://en.wikipedia.org/w/index.php?title=Software_engineering&oldid=1092208848) passionate about developing robust software technology! Check out my [socials](https://www.linkedin.com/in/isaiah-laduke-04074218b/) here.
 - 😆❗️ My desire is to become a well-rounded Engineer, leader, and friend.
 - 🌱☀️ I'm currently learning NextJS, TypeScript, Vercel, and SupaBase!
-- 💼🔍 Checkout my portfolio here❗️
+- 💼🔍 Checkout my [portfolio here](https://portfolio-website-tau-gules.vercel.app/)❗️
 - 📫💬 Contact me at ladukeisaiah@gmail.com if you'd like to connect!😄
 <!--
 **ladukeisaiah/ladukeisaiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
